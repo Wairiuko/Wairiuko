@@ -1,5 +1,5 @@
-## Hi there 👋
-# 😄 Pronouns: 
+# Hi there 👋
+## 😄 Pronouns: 
  He/His
 #
  🌱 I’m currently learning and at the same time developing a realtime collaborative art creating/sharing site using Ethereum and Ipfs for the 'back-end' and
