@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+## 😄 Pronouns: 
+# He/His
+# 🌱 I’m currently learning and at the same time developing a collaborative dApp   
+# 🤔 Also I am looking for help with a distributed database/solution for the said dApp
+# 📫 Drop me an [email](wairiukosimon@gmail.com) if interested or discord (Simon Wairiuko#5913).
 <!--
 **Wairiuko/Wairiuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
