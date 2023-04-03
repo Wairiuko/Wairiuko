@@ -1,15 +1,5 @@
 # Hi there 👋
-## 😄 Pronouns: 
- He/His
-#
- 🌱 I’m currently learning and at the same time developing a realtime collaborative art creating/sharing site using Ethereum and Ipfs for the 'back-end' and
- React Js for the front-end.
- #
- 💬  Most of the front-end is done, as I am an artist and therefore naturally front-end-inclined 😄 😄 😄
- #
-🤔 I am looking for help with a distributed database/solution for the said dApp (Right now I am working on Orbit-db)
-#
- 📫 DM me on [twitter](https://twitter.com/simon_wairiuko) if interested.
+## Welcome to my Github, indulge.
 <!--
 **Wairiuko/Wairiuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
